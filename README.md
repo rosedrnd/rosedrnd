@@ -4,7 +4,8 @@
 - 👯 I’m looking to collaborate on coding for business applications particularly Microsoft Dynamics 365.
 
 You can also reach me on [**LinkedIn**](https://www.linkedin.com/in/catherinerosedurand/)
-I've compiled my past professional life here [**Portfolio**](https://catherinerosedurand.wixsite.com/portfolio)
+
+Meanwhile, I've compiled my past professional life here [**Portfolio**](https://catherinerosedurand.wixsite.com/portfolio)
 
 Pronouns: I prefer She/her. 
 
