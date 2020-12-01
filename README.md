@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m busy learning about IT Project Management.
+- 🔭 I’m busy learning about business applications: CRM and ERP.
 - 🌱 I’m currently learning these coding languages: HTML, CSS, JavaScript. Yes big newbie here!  
 - 👯 I’m looking to collaborate on coding for business Application particularly Microsoft Dynamics 365.
 - 🤔 I’m looking for help with the topics mentioned above. 
