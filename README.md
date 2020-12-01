@@ -6,7 +6,7 @@
 - 📫 You can also reach me on [LinkedIn](https://www.linkedin.com/in/catherinerosedurand/)
 - 😄 Pronouns: I prefer She/her. 
 
-I like poems, here's some words of wisdom from Khalil Gibran: 
+I like poems. Sharing you some words of wisdom from Khalil Gibran: 
 >No man can reveal to you aught but that which already 
 >lies half asleep in the dawning of your knowledge. 
 <!--
