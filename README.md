@@ -1,4 +1,4 @@
-### Kumusta 👋
+### :palm_tree: Kumusta :palm_tree:
 - 🔭 I’m busy learning about business applications: CRM and ERP.
 - 🌱 I’m currently learning these coding languages: HTML, CSS, JavaScript. Yes big newbie here!  
 - 👯 I’m looking to collaborate on coding for business applications particularly Microsoft Dynamics 365.
