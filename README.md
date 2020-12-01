@@ -6,6 +6,7 @@
 
 You can also reach me on [LinkedIn](https://www.linkedin.com/in/catherinerosedurand/)
 I've compiled my past professional life here [Portfolio](https://catherinerosedurand.wixsite.com/portfolio)
+
 Pronouns: I prefer She/her. 
 
 I like poems. Sharing you some words of wisdom from Khalil Gibran: 
