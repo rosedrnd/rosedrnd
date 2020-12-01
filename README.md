@@ -8,7 +8,7 @@ I've compiled my past professional life here [Portfolio](https://catherinerosedu
 
 Pronouns: I prefer She/her. 
 
-I like poems. Sharing you some words of wisdom from Khalil Gibran: 
+I like poems. Here are some words of wisdom from Khalil Gibran: 
 >No man can reveal to you aught but that which already 
 >lies half asleep in the dawning of your knowledge. 
 <!--
