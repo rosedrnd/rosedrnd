@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**rosedrnd/rosedrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m busy learning about IT Project Management.
 - 🌱 I’m currently learning these coding languages: HTML, CSS, JavaScript. Yes big newbie here!  
 - 👯 I’m looking to collaborate on coding for business Application particularly Microsoft Dynamics 365.
@@ -15,4 +9,10 @@ Here are some ideas to get you started:
 I like poems, here's some words of wisdom from Khalil Gibran: 
 >No man can reveal to you aught but that which already 
 >lies half asleep in the dawning of your knowledge. 
+<!--
+**rosedrnd/rosedrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
