@@ -5,6 +5,7 @@
 
 You can also reach me on [**LinkedIn**](https://www.linkedin.com/in/catherinerosedurand/)
 
+Here are my ongoing projects in Github that I carefully compiled in a lovely [**portfolio website**](https://rosedrnd.github.io/Portfolio/) 
 Meanwhile, I've compiled my past professional life here [**Portfolio**](https://catherinerosedurand.wixsite.com/portfolio)
 
 Pronouns: I prefer She/her. 
